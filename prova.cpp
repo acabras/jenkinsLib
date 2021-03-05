@@ -1,3 +1,3 @@
 #include <stdio.h>
-cout<<"Hello 1"<<endl
-cout<<"Hello 2"<<endl
+std::cout<<"Hello 1"<<std::endl
+std::cout<<"Hello 2"<<std::endl
