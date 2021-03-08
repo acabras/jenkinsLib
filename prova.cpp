@@ -1,3 +1,6 @@
 #include <iostream>
-cout<<"Hello 1"<<endl
-cout<<"Hello 2"<<endl
+using namespace std;
+int main(){
+  cout<<"Hello 1"<<endl;
+  cout<<"Hello 2"<<endl;
+}
